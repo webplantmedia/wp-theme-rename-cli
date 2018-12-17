@@ -1,6 +1,6 @@
 {
   "name": "wp-theme-rename-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Command line tool for renaming WordPress themes.",
   "main": "index.js",
   "scripts": {
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/iamdmitrymayorov/wp-theme-rename-cli.git"
+    "url": "https://github.com/webplantmedia/wp-theme-rename-cli.git"
   },
   "keywords": [
     "WordPress",
     "Theme",
     "Rename"
   ],
-  "author": "Dmitry Mayorov (https://themepatio.com)",
+  "author": "Chris Baldelomar (https://webplantmedia.com)",
   "license": "GPLv2 (or later)",
   "bugs": {
-    "url": "https://github.com/iamdmitrymayorov/wp-theme-rename-cli.git"
+    "url": "https://github.com/webplantmedia/wp-theme-rename-cli.git"
   },
-  "homepage": "https://github.com/iamdmitrymayorov/wp-theme-rename-cli.git",
+  "homepage": "https://github.com/webplantmedia/wp-theme-rename-cli.git",
   "preferGlobal": true,
   "bin": {
     "wp-theme-rename": "index.js"

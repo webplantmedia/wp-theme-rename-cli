@@ -18,6 +18,8 @@ var oldSlug,
 // Excluded folders.
 var folderExclude = [
 	'node_modules',
+	'vendor',
+	'vendors',
 	'.git',
 	'.sass-cache',
 	'.hg',
